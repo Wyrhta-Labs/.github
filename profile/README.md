@@ -8,6 +8,17 @@
 
 <p align="center"><sub>from <b>Wyrhta Labs</b></sub></p>
 
+<table>
+  <tr>
+    <td width="50%"><img src="images/heorth-hearth-wall.png" alt="Heorth's Hearth wall view: the family's week, what's next, and tonight's supper"></td>
+    <td width="50%"><img src="images/kithledger-person.png" alt="KithLedger: a person, a note on how they like to be reached, and a log of calls"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Heorth</b> — the household's week on the kitchen wall</td>
+    <td align="center"><b>KithLedger</b> — the people around it, and what's worth remembering</td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/Wyrhta-Labs/Heorth">Heorth</a> ·
   <a href="https://github.com/Wyrhta-Labs/KithLedger">KithLedger</a> ·
